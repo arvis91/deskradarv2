@@ -1,0 +1,4 @@
+# deskradarv2
+made the second version, a radar killer basically. This is the ultimate and the best radar :D ... the best i could make :D
+
+Pin / GPIOFunction & Connected ComponentGPIO 1Audio Output (AUDIO_PIN / Speaker or Buzzer)GPIO 3Display Backlight PWM (TFT_BL)GPIO 4DHT11 / DHT22 Sensor Data Line (DHTPIN)GPIO 5Theme Toggle Switch (SW1_PIN)GPIO 6Mode Selector Switch — Radar / Tetris (SW2_PIN)GPIO 7Potentiometer Analog Input (POT_PIN for menu/brightness)GPIO 8Display Data/Command (TFT_DC)GPIO 9Display Reset (TFT_RST)GPIO 10Display Chip Select (TFT_CS)GPIO 11Display SPI MOSI (Data)GPIO 12Display SPI SCLK (Clock)GPIO 15Tactile Button 4 / Tetris Right (KEY4_PIN)GPIO 16Tactile Button 3 / Tetris Drop (KEY3_PIN)GPIO 17Tactile Button 2 / Tetris Rotate (KEY2_PIN)GPIO 18Tactile Button 1 / Radar Toggle / Tetris Left (KEY1_PIN)3V3 / GNDPower Supply and Ground Rails
